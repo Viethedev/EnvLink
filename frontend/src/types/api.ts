@@ -46,8 +46,8 @@ export interface APIEndpoints {
   
   // Chatbot
   chatbot: {
-    chat: '/api/chatbot/chat';
-    suggestions: '/api/chatbot/suggestions';
+    chat: '/api/chat';
+    suggestions: '/api/suggestions';
   };
 }
 
